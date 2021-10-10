@@ -1,0 +1,8 @@
+/* .button{
+    margin-left: 10px;
+} */
+.main_button{
+    padding: 2rem;
+    background-color: red;
+    margin-left: 10px;
+}

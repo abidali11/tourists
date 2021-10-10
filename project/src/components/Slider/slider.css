@@ -1,0 +1,36 @@
+.mainslider{
+    height: 500px;
+    width: 100%;
+    background-image: url(../../slider/1.jpg);
+    display: flex;
+    background-attachment: fixed;
+
+}
+.mainslider img{
+    display: flex;
+    height: 444px;
+    margin-top: 50px;
+    /* justify-content: right; */
+}
+.mainslider .heading h1{
+    color: rgb(233, 233, 247);
+    font-size: 70px;
+    align-items: center;
+    text-align: center;
+}
+.mainslider .heading{
+    flex-basis: 60%;
+}
+.btn{
+    /* display: flex; */
+    height: 200px;
+    /* align-items: center; */
+    text-align: center;
+    
+}
+.btn button{
+    height: 49px;
+    background-color: royalblue;
+    color: white;
+    font-family: sans-serif;
+}

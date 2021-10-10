@@ -1,0 +1,12 @@
+.team{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(54, 50, 50);
+    height: 600px;
+}
+.team .img1 img{
+    width: 350px;
+    height: 383px;
+    /* justify-content: space-around; */
+    margin-left: 100px;
+}
